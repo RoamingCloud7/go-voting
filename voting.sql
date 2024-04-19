@@ -1,18 +1,4 @@
-/*
- Navicat Premium Data Transfer
 
- Source Server         : 188.131.140.15
- Source Server Type    : MariaDB
- Source Server Version : 100244 (10.2.44-MariaDB)
- Source Host           : 188.131.140.15:3306
- Source Schema         : ranking
-
- Target Server Type    : MariaDB
- Target Server Version : 100244 (10.2.44-MariaDB)
- File Encoding         : 65001
-
- Date: 19/07/2023 16:29:53
-*/
 
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
