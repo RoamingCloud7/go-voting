@@ -1,12 +1,12 @@
 package router
 
 import (
-	"gin-ranking/config"
-	"gin-ranking/controllers"
-	"gin-ranking/pkg/logger"
 	"github.com/gin-contrib/sessions"
 	sessions_redis "github.com/gin-contrib/sessions/redis"
 	"github.com/gin-gonic/gin"
+	"voting-backend/config"
+	"voting-backend/controllers"
+	"voting-backend/pkg/logger"
 )
 
 func Router() *gin.Engine {

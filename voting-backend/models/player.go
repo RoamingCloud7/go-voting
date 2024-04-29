@@ -1,8 +1,8 @@
 package models
 
 import (
-	"gin-ranking/dao"
 	"github.com/jinzhu/gorm"
+	"voting-backend/dao"
 )
 
 type Player struct {

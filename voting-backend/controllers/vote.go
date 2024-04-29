@@ -1,10 +1,10 @@
 package controllers
 
 import (
-	"gin-ranking/cache"
-	"gin-ranking/models"
 	"github.com/gin-gonic/gin"
 	"strconv"
+	"voting-backend/cache"
+	"voting-backend/models"
 )
 
 type VoteController struct{}

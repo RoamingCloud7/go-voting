@@ -1,10 +1,10 @@
 package controllers
 
 import (
-	"gin-ranking/models"
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-gonic/gin"
 	"strconv"
+	"voting-backend/models"
 )
 
 type UserController struct{}

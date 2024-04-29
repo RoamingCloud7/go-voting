@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gin-ranking/router"
+	"voting-backend/router"
 )
 
 func main() {

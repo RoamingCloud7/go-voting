@@ -1,8 +1,8 @@
 package models
 
 import (
-	"gin-ranking/dao"
 	"time"
+	"voting-backend/dao"
 )
 
 type Vote struct {

@@ -2,8 +2,8 @@ package cache
 
 import (
 	"context"
-	"gin-ranking/config"
 	"github.com/redis/go-redis/v9"
+	"voting-backend/config"
 )
 
 var (

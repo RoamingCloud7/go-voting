@@ -1,4 +1,4 @@
-module gin-ranking
+module voting-backend
 
 go 1.20
 
